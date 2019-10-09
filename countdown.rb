@@ -1,6 +1,6 @@
 #write your code here
 def countdown(num)
-  counter = 0
+  counter = num 
   while counter > 0
     puts "#{num} SECOND (S)!"
     counter -= 1
